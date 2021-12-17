@@ -1,0 +1,74 @@
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridgeTests.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridgeTests.pdb
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridge.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Http.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\EntityFramework.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Razor.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridge.pdb
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridge.dll.config
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Http.xml
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Optimization.xml
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\EntityFramework.xml
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Razor.xml
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\obj\Debug\ShopBridgeTests.csproj.AssemblyReference.cache
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\obj\Debug\ShopBridgeTests.csproj.CoreCompileInputs.cache
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\obj\Debug\ShopBridgeTests.csproj.CopyComplete
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\obj\Debug\ShopBridgeTests.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\obj\Debug\ShopBridgeTests.pdb
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridgeTests.dll.config
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\spatil.FAJRINVESTMENT\Documents\Santosh\Think Bridge Test\ShopBridge\ShopBridgeTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridgeTests.dll.config
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridgeTests.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridgeTests.pdb
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridge.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Http.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Razor.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridge.pdb
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\ShopBridge.dll.config
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Http.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.Razor.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\obj\Debug\ShopBridgeTests.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\obj\Debug\ShopBridgeTests.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\obj\Debug\ShopBridgeTests.csproj.CopyComplete
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\obj\Debug\ShopBridgeTests.dll
+C:\Users\DELL\Downloads\ShopBridge\ShopBridgeTests\obj\Debug\ShopBridgeTests.pdb
